@@ -4,7 +4,7 @@ This repository contains code which will allow you to replicate the results pres
 
 # Dependencies
 
-In order to run this code you will need numpy, astropy, tqdm, matplotlib, and scipy installed. You will also need to have a working installation of emcee for performing MCMC.
+In order to run this code you will need numpy, astropy, tqdm, matplotlib, and scipy installed. You will also need to have a working installation of galpy for coordinate transformations (and if you want to implement the kinematic selection function), and emcee for performing MCMC.
 
 Next up, you will have to download the custom low metallicity PARSEC isochrone grid used for this paper. If these files are no longer available, you will have to generate a new set of isochrones between Z = 0.0001 and 0.0030 with Delta_Z = 0.0001 from the CMD interface. This grid should then be placed in a logical place, and the environment variable ISODIST_DATA set pointing to this location. ISODIST_DATA is the environment variable used for locating isochrones in the isodist package, in case you already use that. Note however, that this package is not required explicitly for running the code.
 
