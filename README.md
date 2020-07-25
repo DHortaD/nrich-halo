@@ -11,6 +11,7 @@ Next up, you will have to download the custom low metallicity PARSEC isochrone g
 # Results:
 
 - Compute the APOGEE DR16 selection function
+- Select N-rich stars based on a XDGMM and chemical tagging approach
 - Fit the density of APOGEE red giants in the halo, and the N-rich star counterparts
 - Perform an estimation of the ratio of N-rich stars to the halo field
 - Estimate the mass within a halo/N-rich star sample within a chosen volume
