@@ -1,6 +1,6 @@
 # nrich-halo
 
-This repository contains code which will allow you to replicate the results presented in the paper 'The contribution of N-rich stars to the Galactic Stellar halo using APOGEE red giants' (Horta et al. 2020c). 
+This repository contains code which will allow you to replicate the results presented in the paper 'The contribution of N-rich stars to the Galactic Stellar halo using APOGEE red giants' (Horta et al. 2020c). The scripts are an adaptation of the "halo-mass" code (https://github.com/jmackereth/halo-mass) written by jmackereth.
 
 # Dependencies
 
