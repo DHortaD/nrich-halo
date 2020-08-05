@@ -1,6 +1,6 @@
 # nrich-halo
 
-This repository contains code which will allow you to replicate the results presented in the paper 'The contribution of N-rich stars to the Galactic Stellar halo using APOGEE red giants' (Horta et al. 2020c). The main piece of code with all the results for the paper is included in the "density-modelling.ipynb" notebook. The scripts are an adaptation of the "halo-mass" code (https://github.com/jmackereth/halo-mass) written by jmackereth.
+This repository contains code which will allow you to replicate the results presented in the paper 'The contribution of N-rich stars to the Galactic Stellar halo using APOGEE red giants' (https://ui.adsabs.harvard.edu/abs/2020arXiv200801097H/abstract). The main piece of code with all the results for the paper is included in the "density-modelling.ipynb" notebook. The scripts are an adaptation of the "halo-mass" code (https://github.com/jmackereth/halo-mass) written by @jmackereth.
 
 # Dependencies
 
